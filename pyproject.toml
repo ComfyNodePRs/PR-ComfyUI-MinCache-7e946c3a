@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-mincache"
+description = "Modifies execution to minimize RAM at the cost of performance"
+version = "0.1.0"
+classifiers = [
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+]
+
+[project.urls]
+Repository = "https://github.com/AustinMroz/ComfyUI-MinCache"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "austinmroz"
+DisplayName = "ComfyUI-MinCache"
+Icon = ""
